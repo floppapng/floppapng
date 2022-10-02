@@ -1,0 +1,3 @@
+- 👋 @floppapng
+- 👀 C++ lang.
+- 📫 Discord: ау#2800
