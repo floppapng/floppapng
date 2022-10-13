@@ -1,3 +1,3 @@
 - 👋 @floppapng
-- 👀 C++ lang.
-- 📫 Discord: ау#2800
+- 👀 C++ lang, JAVA and Lua
+- 📫 Discord: btw#8755
